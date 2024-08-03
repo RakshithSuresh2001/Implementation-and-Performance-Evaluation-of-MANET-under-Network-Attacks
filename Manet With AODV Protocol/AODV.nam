@@ -1,0 +1,21 @@
+n -t * -s 0  -x 123 -y 399 -Z 0 -z 20  -v circle -c green
+n -t * -s 1  -x 290 -y 332 -Z 0 -z 20  -v circle -c green
+n -t * -s 2  -x 198 -y 249 -Z 0 -z 20  -v circle -c green
+n -t * -s 3  -x 125 -y 243 -Z 0 -z 20  -v circle -c green
+n -t * -s 4  -x 206 -y 187 -Z 0 -z 20  -v circle -c green
+n -t * -s 5  -x 307 -y 163 -Z 0 -z 20  -v circle -c green
+n -t * -s 6  -x 385 -y 203 -Z 0 -z 20  -v circle -c green
+n -t * -s 7  -x 489 -y 229 -Z 0 -z 20  -v circle -c green
+n -t * -s 8  -x 538 -y 307 -Z 0 -z 20  -v circle -c green
+n -t * -s 9  -x 537 -y 392 -Z 0 -z 20  -v circle -c green
+n -t * -s 10  -x 641 -y 207 -Z 0 -z 20  -v circle -c green
+n -t * -s 11  -x 743 -y 309 -Z 0 -z 20  -v circle -c green
+n -t * -s 12  -x 697 -y 126 -Z 0 -z 20  -v circle -c green
+n -t * -s 13  -x 850 -y 299 -Z 0 -z 20  -v circle -c green
+n -t * -s 14  -x 891 -y 186 -Z 0 -z 20  -v circle -c green
+n -t * -s 15  -x 873 -y 88 -Z 0 -z 20  -v circle -c green
+n -t * -s 16  -x 1011 -y 138 -Z 0 -z 20  -v circle -c green
+V -t * -v 1.0a5 -a 0
+W -t * -x 1379 -y 400
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
